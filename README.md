@@ -8,3 +8,8 @@ Some useful commands:
 * `docker-compose exec web bash`
 * `docker-compose exec web python -m pip install -r requirements.txt`
 
+
+Preferable start:
+python start.py runserver
+
+Docker might not work
